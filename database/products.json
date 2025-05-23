@@ -1,0 +1,461 @@
+[
+    {
+        "id": 1,
+        "name": "Apple iPhone 14 Pro",
+        "price": 999.99,
+        "description": "6.1-inch Super Retina XDR display, A16 Bionic chip, ProMotion technology",
+        "category": "Smartphones",
+        "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-3.jpg",
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S23 Ultra",
+        "price": 1199.99,
+        "description": "6.8-inch Dynamic AMOLED display, Snapdragon 8 Gen 2, 50MP camera",
+        "category": "Smartphones",
+        "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S23-Ultra-Cream-1280.jpg",
+        "stock": 45
+    },
+    {
+        "id": 3,
+        "name": "Sony WH-1000XM5",
+        "price": 399.99,
+        "description": "Noise-cancelling headphones with 30-hour battery life",
+        "category": "Audio",
+        "image": "https://image.ceneostatic.pl/data/products/131921458/4ca84c6a-70d4-4dba-8dc8-41d18bfc6d6e_i-sony-wh-1000xm5-czarny.jpg",
+        "stock": 30
+    },
+    {
+        "id": 4,
+        "name": "Dell XPS 15",
+        "price": 1499.99,
+        "description": "15.6-inch 4K OLED display, Intel Core i7, NVIDIA RTX 3050",
+        "category": "Laptops",
+        "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-7590/general/111-xps-product-imagery-notebook-xps-15-7590-campaign.jpg?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=855&qlt=100,1&resMode=sharp2&size=855,402&chrss=full",
+        "stock": 25
+    },
+    {
+        "id": 5,
+        "name": "Apple MacBook Pro 14",
+        "price": 1999.99,
+        "description": "14-inch Liquid Retina XDR display, M2 Pro chip, 16GB RAM",
+        "category": "Laptops",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/MacBook_Pro_Retina_001.jpg",
+        "stock": 35
+    },
+    {
+        "id": 6,
+        "name": "Samsung Odyssey Neo G9",
+        "price": 1499.99,
+        "description": "49-inch QLED curved gaming monitor, 240Hz refresh rate",
+        "category": "Monitors",
+        "image": "https://i5.walmartimages.com/seo/SAMSUNG-57-Odyssey-Neo-G9-Dual-4K-UHD-Quantum-Mini-LED-240Hz-1ms-HDR-1000-Curved-Gaming-Monitor_91389b3b-6d99-46dc-8f7c-f6174047b02a.22c53d90c73e6cf4b39fc343fff944ce.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+        "stock": 20
+    },
+    {
+        "id": 7,
+        "name": "NVIDIA GeForce RTX 4080",
+        "price": 1199.99,
+        "description": "16GB GDDR6X, 16384 CUDA cores, 4K gaming",
+        "category": "Graphics Cards",
+        "image": "https://i5.walmartimages.com/seo/NVIDIA-GeForce-RTX-4080-SUPER-Founders-Edition-Graphics-Card-16GB-GDDR6X-Titanium-and-Black_da65504f-75b9-4f57-a7b0-ff32904af987.9a7ac467cdb2621dd467a2e6a8acdb02.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+        "stock": 15
+    },
+    {
+        "id": 8,
+        "name": "Apple AirPods Pro 2",
+        "price": 249.99,
+        "description": "Active noise cancellation, spatial audio, 6-hour battery",
+        "category": "Audio",
+        "image": "https://as1.ftcdn.net/jpg/04/08/38/46/1000_F_408384620_TUotS6FrAwhpg7gUCQqZca9WlJZE3oRM.webp",
+        "stock": 40
+    },
+    {
+        "id": 9,
+        "name": "Sony PlayStation 5",
+        "price": 499.99,
+        "description": "825GB SSD, 10.28 TFLOPS, 4K gaming",
+        "category": "Gaming",
+        "image": "https://snpi.dell.com/snp/images/products/large/en-us~AC906119_v2/AC906119_v2.jpg",
+        "stock": 30
+    },
+    {
+        "id": 10,
+        "name": "Microsoft Xbox Series X",
+        "price": 499.99,
+        "description": "12TFLOPS GPU, 1TB SSD, 4K gaming",
+        "category": "Gaming",
+        "image": "https://example.com/xboxsx.jpg",
+        "stock": 25
+    },
+    {
+        "id": 11,
+        "name": "Apple iPad Pro 12.9",
+        "price": 1099.99,
+        "description": "Liquid Retina XDR display, M2 chip, 128GB",
+        "category": "Tablets",
+        "image": "https://example.com/ipadpro.jpg",
+        "stock": 35
+    },
+    {
+        "id": 12,
+        "name": "Samsung Galaxy Tab S8 Ultra",
+        "price": 1099.99,
+        "description": "14.6-inch Super AMOLED display, Snapdragon 8 Gen 1",
+        "category": "Tablets",
+        "image": "https://example.com/galaxytab.jpg",
+        "stock": 30
+    },
+    {
+        "id": 13,
+        "name": "DJI Air 2S Drone",
+        "price": 999.99,
+        "description": "4K camera, 31-minute flight time, 12km transmission range",
+        "category": "Drones",
+        "image": "https://example.com/dji-air2s.jpg",
+        "stock": 20
+    },
+    {
+        "id": 14,
+        "name": "Canon EOS R5",
+        "price": 3899.99,
+        "description": "45MP full-frame mirrorless, 8K video, 20fps",
+        "category": "Cameras",
+        "image": "https://example.com/canon-r5.jpg",
+        "stock": 15
+    },
+    {
+        "id": 15,
+        "name": "Sony Alpha A7 IV",
+        "price": 2499.99,
+        "description": "33MP full-frame sensor, 4K video, 10fps",
+        "category": "Cameras",
+        "image": "https://example.com/sony-a7iv.jpg",
+        "stock": 20
+    },
+    {
+        "id": 16,
+        "name": "Samsung 990 Pro SSD",
+        "price": 199.99,
+        "description": "2TB NVMe SSD, 7450MB/s read speed",
+        "category": "Storage",
+        "image": "https://example.com/samsung-990pro.jpg",
+        "stock": 45
+    },
+    {
+        "id": 17,
+        "name": "WD Black SN850X SSD",
+        "price": 179.99,
+        "description": "2TB NVMe SSD, 7300MB/s read speed",
+        "category": "Storage",
+        "image": "https://example.com/wd-sn850x.jpg",
+        "stock": 40
+    },
+    {
+        "id": 18,
+        "name": "Logitech MX Master 3S",
+        "price": 99.99,
+        "description": "Wireless mouse with tilt wheel, 4000 DPI",
+        "category": "Accessories",
+        "image": "https://example.com/mx-master3s.jpg",
+        "stock": 50
+    },
+    {
+        "id": 19,
+        "name": "Logitech G Pro X Superlight",
+        "price": 149.99,
+        "description": "Wireless gaming mouse, 190g weight, 18000 DPI",
+        "category": "Accessories",
+        "image": "https://example.com/g-pro-superlight.jpg",
+        "stock": 30
+    },
+    {
+        "id": 20,
+        "name": "Razer Blackwidow V3",
+        "price": 149.99,
+        "description": "Mechanical keyboard, Chroma RGB, 100% key rollover",
+        "category": "Accessories",
+        "image": "https://example.com/razer-blackwidow.jpg",
+        "stock": 35
+    },
+    {
+        "id": 21,
+        "name": "NVIDIA GeForce RTX 4090",
+        "price": 1599.99,
+        "description": "24GB GDDR6X, 18432 CUDA cores, 4K gaming",
+        "category": "Graphics Cards",
+        "image": "https://example.com/rtx4090.jpg",
+        "stock": 10
+    },
+    {
+        "id": 22,
+        "name": "AMD Ryzen 9 7950X",
+        "price": 599.99,
+        "description": "16 cores, 32 threads, 5.7GHz boost",
+        "category": "Processors",
+        "image": "https://example.com/ryzen-9.jpg",
+        "stock": 25
+    },
+    {
+        "id": 23,
+        "name": "Intel Core i9-13900K",
+        "price": 589.99,
+        "description": "24 cores, 32 threads, 5.8GHz boost",
+        "category": "Processors",
+        "image": "https://example.com/i9-13900k.jpg",
+        "stock": 30
+    },
+    {
+        "id": 24,
+        "name": "Samsung Galaxy Watch 5 Pro",
+        "price": 399.99,
+        "description": "Titanium body, 590mAh battery, GPS",
+        "category": "Wearables",
+        "image": "https://example.com/galaxy-watch5pro.jpg",
+        "stock": 25
+    },
+    {
+        "id": 25,
+        "name": "Apple Watch Series 8",
+        "price": 399.99,
+        "description": "Always-on Retina display, ECG, fall detection",
+        "category": "Wearables",
+        "image": "https://example.com/apple-watch.jpg",
+        "stock": 30
+    },
+    {
+        "id": 26,
+        "name": "Sony WH-1000XM4",
+        "price": 349.99,
+        "description": "Noise-cancelling headphones with 30-hour battery",
+        "category": "Audio",
+        "image": "https://example.com/sony-xm4.jpg",
+        "stock": 35
+    },
+    {
+        "id": 27,
+        "name": "Bose QuietComfort Earbuds II",
+        "price": 299.99,
+        "description": "Active noise cancellation, 6-hour battery",
+        "category": "Audio",
+        "image": "https://example.com/bose-earbuds.jpg",
+        "stock": 40
+    },
+    {
+        "id": 28,
+        "name": "ASUS ROG Strix G15",
+        "price": 1299.99,
+        "description": "15.6-inch 144Hz display, RTX 3060, 16GB RAM",
+        "category": "Gaming Laptops",
+        "image": "https://example.com/rog-strix.jpg",
+        "stock": 25
+    },
+    {
+        "id": 29,
+        "name": "Alienware x15 R2",
+        "price": 2499.99,
+        "description": "15.6-inch 360Hz display, RTX 3080 Ti, 32GB RAM",
+        "category": "Gaming Laptops",
+        "image": "https://example.com/alienware-x15.jpg",
+        "stock": 15
+    },
+    {
+        "id": 30,
+        "name": "Razer Blade 15",
+        "price": 1799.99,
+        "description": "15.6-inch 240Hz display, RTX 3070 Ti, 16GB RAM",
+        "category": "Gaming Laptops",
+        "image": "https://example.com/razer-blade.jpg",
+        "stock": 20
+    },
+    {
+        "id": 31,
+        "name": "DJI Mavic 3 Pro",
+        "price": 1999.99,
+        "description": "48MP main camera, 46-minute flight time",
+        "category": "Drones",
+        "image": "https://example.com/dji-mavic3.jpg",
+        "stock": 15
+    },
+    {
+        "id": 32,
+        "name": "Canon EOS R6 Mark II",
+        "price": 2499.99,
+        "description": "24MP full-frame mirrorless, 4K video, 40fps",
+        "category": "Cameras",
+        "image": "https://example.com/canon-r6ii.jpg",
+        "stock": 20
+    },
+    {
+        "id": 33,
+        "name": "Nikon Z9",
+        "price": 5499.99,
+        "description": "45.7MP full-frame mirrorless, 8K video",
+        "category": "Cameras",
+        "image": "https://example.com/nikon-z9.jpg",
+        "stock": 10
+    },
+    {
+        "id": 34,
+        "name": "Samsung 990 Pro with Heatsink",
+        "price": 229.99,
+        "description": "2TB NVMe SSD with heatsink, 7450MB/s read speed",
+        "category": "Storage",
+        "image": "https://example.com/samsung-990pro-hs.jpg",
+        "stock": 35
+    },
+    {
+        "id": 35,
+        "name": "Seagate FireCuda 530 SSD",
+        "price": 189.99,
+        "description": "2TB NVMe SSD, 7300MB/s read speed",
+        "category": "Storage",
+        "image": "https://example.com/seagate-firecuda.jpg",
+        "stock": 40
+    },
+    {
+        "id": 36,
+        "name": "Logitech G Pro X Superlight",
+        "price": 149.99,
+        "description": "Wireless gaming mouse, 190g weight, 18000 DPI",
+        "category": "Accessories",
+        "image": "https://example.com/g-pro-superlight.jpg",
+        "stock": 30
+    },
+    {
+        "id": 37,
+        "name": "Corsair K100 RGB",
+        "price": 179.99,
+        "description": "Mechanical keyboard, Cherry MX Speed Silver, 8MB storage",
+        "category": "Accessories",
+        "image": "https://example.com/corsair-k100.jpg",
+        "stock": 35
+    },
+    {
+        "id": 38,
+        "name": "SteelSeries Arctis Pro",
+        "price": 249.99,
+        "description": "Gaming headset with 24-hour battery",
+        "category": "Audio",
+        "image": "https://example.com/steelseries-arctis.jpg",
+        "stock": 25
+    },
+    {
+        "id": 39,
+        "name": "HyperX Cloud II",
+        "price": 99.99,
+        "description": "Gaming headset with 7.1 surround sound",
+        "category": "Audio",
+        "image": "https://example.com/hyperx-cloud.jpg",
+        "stock": 40
+    },
+    {
+        "id": 40,
+        "name": "ASUS ROG Strix Z690-E",
+        "price": 499.99,
+        "description": "Intel Z690 motherboard, PCIe 5.0, DDR5",
+        "category": "Motherboards",
+        "image": "https://example.com/rog-strix-z690.jpg",
+        "stock": 25
+    },
+    {
+        "id": 41,
+        "name": "MSI MPG B660M Carbon",
+        "price": 249.99,
+        "description": "Intel B660 motherboard, PCIe 4.0, DDR4",
+        "category": "Motherboards",
+        "image": "https://example.com/msi-b660m.jpg",
+        "stock": 30
+    },
+    {
+        "id": 42,
+        "name": "Corsair Vengeance RGB Pro",
+        "price": 199.99,
+        "description": "32GB DDR5-5600 RAM kit",
+        "category": "Memory",
+        "image": "https://example.com/corsair-vengeance.jpg",
+        "stock": 40
+    },
+    {
+        "id": 43,
+        "name": "G.Skill Trident Z5",
+        "price": 179.99,
+        "description": "32GB DDR5-5600 RAM kit",
+        "category": "Memory",
+        "image": "https://example.com/gskill-trident.jpg",
+        "stock": 35
+    },
+    {
+        "id": 44,
+        "name": "Cooler Master MasterLiquid ML360R",
+        "price": 149.99,
+        "description": "360mm RGB AIO liquid cooler",
+        "category": "Cooling",
+        "image": "https://example.com/masterliquid.jpg",
+        "stock": 25
+    },
+    {
+        "id": 45,
+        "name": "NZXT Kraken Z73",
+        "price": 199.99,
+        "description": "360mm RGB AIO liquid cooler",
+        "category": "Cooling",
+        "image": "https://example.com/nzxt-kraken.jpg",
+        "stock": 20
+    },
+    {
+        "id": 46,
+        "name": "Corsair HX1200i",
+        "price": 199.99,
+        "description": "1200W 80+ Platinum power supply",
+        "category": "Power Supplies",
+        "image": "https://example.com/corsair-hx1200i.jpg",
+        "stock": 30
+    },
+    {
+        "id": 47,
+        "name": "Seasonic Focus GX-850",
+        "price": 149.99,
+        "description": "850W 80+ Gold power supply",
+        "category": "Power Supplies",
+        "image": "https://example.com/seasonic-gx850.jpg",
+        "stock": 35
+    },
+    {
+        "id": 48,
+        "name": "NZXT H510",
+        "price": 119.99,
+        "description": "ATX mid-tower case with RGB",
+        "category": "Cases",
+        "image": "https://example.com/nzxt-h510.jpg",
+        "stock": 40
+    },
+    {
+        "id": 49,
+        "name": "Fractal Design Meshify C",
+        "price": 149.99,
+        "description": "ATX mid-tower case with mesh front panel",
+        "category": "Cases",
+        "image": "https://example.com/meshify-c.jpg",
+        "stock": 25
+    },
+    {
+        "id": 50,
+        "name": "Samsung Odyssey Ark",
+        "price": 1999.99,
+        "description": "55-inch curved gaming monitor, 165Hz refresh rate",
+        "category": "Monitors",
+        "image": "https://example.com/odyssey-ark.jpg",
+        "stock": 15
+    },
+    {
+        "id": 51,
+        "name": "LG UltraGear 27GP950",
+        "price": 899.99,
+        "description": "27-inch 4K OLED gaming monitor, 240Hz refresh rate",
+        "category": "Monitors",
+        "image": "https://example.com/lg-ultragear.jpg",
+        "stock": 20
+    }
+]
